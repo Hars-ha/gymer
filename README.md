@@ -1,3 +1,3 @@
 
 
-*Build with {react (vite) & tailwind}
+*Build with {react & tailwind}
