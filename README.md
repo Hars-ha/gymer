@@ -1,3 +1,3 @@
-gymapp
 
-Build with {react & tailwind}
+
+*Build with {react & tailwind}
