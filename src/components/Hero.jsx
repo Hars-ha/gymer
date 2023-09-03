@@ -10,7 +10,7 @@ export const Hero = () => (
           WE ARE
         </span>
         <span className="text-white lg:text-[95px] text-[58px] font-extrabold font-montserrat tracking-widest sm:-mt-3 ">
-          KIAKAHA
+          gym
         </span>
         <div className="sm:-mt-2">
           <span className="text-white  uppercase sm:text-[40px] text-3xl">
